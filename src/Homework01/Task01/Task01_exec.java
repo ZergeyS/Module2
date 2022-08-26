@@ -8,7 +8,6 @@ public class Task01_exec {
         Pegasus pegasus = new Pegasus();
         Kraken kraken = new Kraken();
         Cerberus cerberus = new Cerberus();
-
         Bat bat = new Bat();
         Penguin penguin = new Penguin();
         Cat cat = new Cat();
